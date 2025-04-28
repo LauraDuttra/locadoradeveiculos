@@ -1,0 +1,15 @@
+[
+    {
+        "tipo": "Carro",
+        "modelo": "Mercedez",
+        "placa": "JVM7V77",
+        "disponivel": false
+    },
+
+    {
+        "tipo": "Moto",
+        "modelo": "kawasaki",
+        "placa": "VJM7J77",
+        "disponivel": true
+    }
+]
