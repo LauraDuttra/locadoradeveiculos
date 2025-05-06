@@ -1,15 +1,20 @@
 [
     {
+        "tipo": "Moto",
+        "modelo": "Harley Davidson",
+        "placa": "BBB8B88",
+        "disponivel": true
+    },
+    {
         "tipo": "Carro",
-        "modelo": "Mercedez",
-        "placa": "JVM7V77",
+        "modelo": "Ferrari",
+        "placa": "AAA7A77",
         "disponivel": false
     },
-
     {
-        "tipo": "Moto",
-        "modelo": "kawasaki",
-        "placa": "VJM7J77",
-        "disponivel": true
+        "tipo": "Carro",
+        "modelo": "Civic G9",
+        "placa": "BBB3B33",
+        "disponivel": false
     }
 ]
